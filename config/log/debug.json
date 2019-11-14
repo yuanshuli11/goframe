@@ -1,0 +1,8 @@
+{
+  "level":"debug",
+  "encoding":"json",
+  "initialFields":{
+    "application":"applogs"
+  },
+  "disableStacktrace":true
+}
